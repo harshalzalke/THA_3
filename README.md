@@ -14,8 +14,13 @@ Website link - https://ourworldindata.org/terrorism
 
 # **Files**
 **Research_question_and_datasource** - This contains the research question and data sources.
-**Codebook** - Data dictionary
-**compiled_dateset** - Final compiled dataset
-**THA_3_pycode.py**
-**US_aid_pakistan.csv**
 
+**Codebook** - Data dictionary
+
+**compiled_dateset** - Final compiled dataset
+
+**THA_3_pycode.py** - Python code for merging the two data sets
+
+**US_aid_pakistan.csv** - Datasheet containing the US aid obligated to Pakistan in current amount
+
+**terrorist_incidents_pakistan.csv** - Datasheet containing the number of terrorist incidents in Pakistan for a given year.
