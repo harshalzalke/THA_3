@@ -11,3 +11,9 @@ Website link - https://explorer.usaid.gov/data.html
 
 b)	Our World in Data: This website has data on the terrorist incidents in Pakistan. We look at the incidents from 1978 to 2017. The modified file is titled **terrorist_incidents_pakistan**.
 Website link - https://ourworldindata.org/terrorism
+
+# **Files**
+**Research_question_and_datasource** - This contains the research question and data sources.
+**Codebook** - Data dictionary
+**compiled_dateset** - Final compiled dataset
+
