@@ -16,4 +16,4 @@ Website link - https://ourworldindata.org/terrorism
 **Research_question_and_datasource** - This contains the research question and data sources.
 **Codebook** - Data dictionary
 **compiled_dateset** - Final compiled dataset
-
+**THA_3_pycode.py**
